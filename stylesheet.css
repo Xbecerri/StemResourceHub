@@ -1,0 +1,547 @@
+/**Start Screen **/
+
+// 3:14
+color: black;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// English
+color: white;
+ font-size: 16px;
+ font-family: Istok Web;
+ font-weight: 700;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Welcome!
+color: black;
+ font-size: 32px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Our 
+color: black;
+ font-size: 40px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Mission
+color: rgba(5, 18, 138, 0.84);
+ font-size: 40px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Empowering the next generation of innovators<br/> by connecting underserved youth with <br/>STEM resources and mentorship to unlock<br/> their full potential.
+color: black;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Sign in
+color: #D11A1A;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Start
+color: #05128A;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+
+ /**Sign In Screen **/
+ // PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Forgot password?
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Forgot password?
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// EMAIL
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Login
+color: black;
+ font-size: 35px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Please sign in to continue
+color: #B8B5B5;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Don’t have an account?
+color: #B8B5B5;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Sign up
+color: #05128A;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 800;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// LOGIN
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+
+  /**Sign Up Screen **/
+
+  // PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Forgot password?
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// FULL NAME
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// EMAIL
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// ROLE
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// CONFIRM PASSWORD
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// I agree with 
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Terms
+color: #05128A;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+//  and 
+color: black;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Privacy
+color: #05128A;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Create Account
+color: black;
+ font-size: 35px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Go
+color: white;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+
+   /**Home Page **/
+
+   // 3:14
+color: black;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Home
+color: white;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Open gym today! All youth ages 12-19 are<br/>welcome. Bring a friend! Message Giang <br/>if you need a ride.
+color: white;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// WELCOME BACK SHAMENA!
+color: black;
+ font-size: 20px;
+ font-family: Amiri Quran Colored;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Connect with Jessica
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Watch Java vs. Python Video
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// To Do List
+color: #05128A;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Complete Inside a Cell Challenge
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Complete Volcano Reaction Challenge
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Watch Java vs. Python Video
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+
+  /**Video Tutorial**/
+  // Intro to Bootstrap<br/>Level: Medium<br/>Dr. Elon Musty
+  color: black;
+   font-size: 20px;
+   font-family: Amaranth;
+   font-weight: 400;
+   line-height: 25px;
+   word-wrap: break-word
+  ---
+  // 3:14
+  color: #FFFCFC;
+   font-size: 15px;
+   font-family: Inter;
+   font-weight: 700;
+   line-height: 25px;
+   word-wrap: break-word
+  ---
+  // Video Tutorials
+  color: white;
+   font-size: 40px;
+   font-family: Amaranth;
+   font-weight: 400;
+   line-height: 25px;
+   word-wrap: break-word
+  ---
+  // Search for Videos
+  color: rgba(0, 0, 0, 0.35);
+   font-size: 20px;
+   font-family: Amaranth;
+   font-weight: 400;
+   line-height: 25px;
+   word-wrap: break-word
+  ---
+  // Biology: Mitosis vs. Meiosis<br/>Level: Medium<br/>Dr. Scientist
+  color: white;
+   font-size: 18px;
+   font-family: Amaranth;
+   font-weight: 400;
+   line-height: 25px;
+   word-wrap: break-word
+  ---
+  // Chemistry Reactions<br/>Level: Hard<br/>Dr. Jones
+  color: black;
+   font-size: 20px;
+   font-family: Amaranth;
+   font-weight: 400;
+   line-height: 25px;
+   word-wrap: break-word
+  ---
+  // Java vs. Python<br/>Level: Medium<br/>Dr. Steve Jobs
+  color: white;
+   font-size: 20px;
+   font-family: Amaranth;
+   font-weight: 400;
+   line-height: 25px;
+   word-wrap: break-word
+
+/**Connections**/
+
+// 3:14
+color: #FFFCFC;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Connect
+color: white;
+ font-size: 30px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Jessica
+color: black;
+ font-size: 36px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Interests: Biology & Computer Science
+color: #05128A;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Bio: Hi! My name is Jessica. I am a first generation Asian American who graduated from Villanova University in 2018. I majored in Computer Science and Biology. I would love to connect with anyone interested in this field.
+color: black;
+ font-size: 18px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// She/Her
+color: #B8B5B5;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Message
+color: white;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+
+ 
+/**Challenge Screen*/
+// 3:14
+color: #FFFCFC;
+ font-size: 15px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Challenges
+color: #FFFCFC;
+ font-size: 30px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Title
+color: white;
+ font-size: 25px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Status
+color: white;
+ font-size: 25px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// All
+color: white;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Completed
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Tic-Tac-Toe Code
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Volcano Reaction
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Inside a Cell
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Calculator Code
+color: black;
+ font-size: 20px;
+ font-family: Amaranth;
+ font-weight: 400;
+ line-height: 25px;
+ word-wrap: break-word
